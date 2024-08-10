@@ -11,7 +11,7 @@ cModel Technology
 Z0 dC:/Users/micha/OneDrive/Documents/Technion/digitalSystems/HW/sim2/finalsub
 vtimer
 Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
-Z2 !s110 1723306138
+Z2 !s110 1723308344
 !i10b 1
 !s100 3N_Ic<LQmlRJ@]4_KeRII1
 Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -22,13 +22,13 @@ R0
 Z5 w1723302091
 8timer.sv
 Ftimer.sv
-!i122 6
+!i122 8
 L0 1 77
 Z6 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z7 !s108 1723306138.000000
+Z7 !s108 1723308344.000000
 !s107 traffic_system_tb.sv|traffic_system_smart_tb.sv|traffic_system_smart.sv|traffic_system.sv|traffic_light_smart.sv|traffic_light.sv|timer_smart.sv|timer.sv|
 Z8 !s90 -reportprogress|300|timer.sv|timer_smart.sv|traffic_light.sv|traffic_light_smart.sv|traffic_system.sv|traffic_system_smart.sv|traffic_system_smart_tb.sv|traffic_system_tb.sv|
 !i113 1
@@ -46,7 +46,7 @@ R0
 R5
 8timer_smart.sv
 Ftimer_smart.sv
-!i122 6
+!i122 8
 L0 1 55
 R6
 r1
@@ -70,7 +70,7 @@ R0
 w1723304826
 8traffic_light.sv
 Ftraffic_light.sv
-!i122 6
+!i122 8
 L0 1 138
 R6
 r1
@@ -85,17 +85,17 @@ vtraffic_light_smart
 R1
 R2
 !i10b 1
-!s100 mihkY?ozDRGSSe1FED4g63
+!s100 F3FoF4l;3PZhi8iG87Y:K1
 R3
-ITnLl8Bji8lAiOhj8aCc:j1
+IhN^F2DXYO_g8EG:FWT7?T0
 R4
 S1
 R0
-w1723303490
+w1723308321
 8traffic_light_smart.sv
 Ftraffic_light_smart.sv
-!i122 6
-L0 1 148
+!i122 8
+L0 1 152
 R6
 r1
 !s85 0
@@ -118,7 +118,7 @@ R0
 R5
 8traffic_system.sv
 Ftraffic_system.sv
-!i122 6
+!i122 8
 L0 2 48
 R6
 r1
@@ -142,7 +142,7 @@ R0
 R5
 8traffic_system_smart.sv
 Ftraffic_system_smart.sv
-!i122 6
+!i122 8
 L0 2 55
 R6
 r1
@@ -166,7 +166,7 @@ R0
 R5
 8traffic_system_smart_tb.sv
 Ftraffic_system_smart_tb.sv
-!i122 6
+!i122 8
 L0 2 60
 R6
 r1
@@ -190,7 +190,7 @@ R0
 R5
 8traffic_system_tb.sv
 Ftraffic_system_tb.sv
-!i122 6
+!i122 8
 L0 3 49
 R6
 r1

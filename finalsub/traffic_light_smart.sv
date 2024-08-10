@@ -69,6 +69,7 @@ always_comb begin
         
         RED_STATE: begin
             L_out = 2'b01; // Cars RED light ON
+	    t_length = RED_DURATION;
             if (car_present && !person_present) begin
                 t_start = 1'b1;
                 t_length = YELLOW_DURATION;
@@ -86,6 +87,7 @@ always_comb begin
         
         YELLOW_STATE: begin
             L_out = 2'b10; // Cars YELLOW light ON
+	    t_length = YELLOW_DURATION;
             if (t_done) begin
                 t_start = 1'b1;
                 t_length = GREEN_DURATION;
@@ -95,6 +97,7 @@ always_comb begin
         end
         
         GREEN_STATE: begin
+	    t_length = GREEN_DURATION;
             L_out = 2'b11; // Cars GREEN light ON
             if (t_flicker) begin
                 //L_out = 2'b11; // Cars OFF during flicker
@@ -116,7 +119,7 @@ always_comb begin
 
         FLICKER_STATE: begin
             L_out = 2'b00; // Cars OFF during flicker
-
+	    t_length = GREEN_DURATION;
             if (t_done) begin
                 t_start = 1'b1;
                 t_length = YELLOW_DURATION;
@@ -130,6 +133,7 @@ always_comb begin
 
 
         DONE_STATE: begin
+	    t_length = YELLOW_DURATION;
             L_out = 2'b10; // Set light to YELLOW
             if (t_done) begin
                 t_start = 1'b1;
