@@ -1,0 +1,203 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/micha/OneDrive/Documents/Technion/digitalSystems/HW/sim2/finalsub
+vtimer
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1723306138
+!i10b 1
+!s100 3N_Ic<LQmlRJ@]4_KeRII1
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I@N^@6Fg^oS8]FbdlP91QG1
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+Z5 w1723302091
+8timer.sv
+Ftimer.sv
+!i122 6
+L0 1 77
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1723306138.000000
+!s107 traffic_system_tb.sv|traffic_system_smart_tb.sv|traffic_system_smart.sv|traffic_system.sv|traffic_light_smart.sv|traffic_light.sv|timer_smart.sv|timer.sv|
+Z8 !s90 -reportprogress|300|timer.sv|timer_smart.sv|traffic_light.sv|traffic_light_smart.sv|traffic_system.sv|traffic_system_smart.sv|traffic_system_smart_tb.sv|traffic_system_tb.sv|
+!i113 1
+Z9 tCvgOpt 0
+vtimer_smart
+R1
+R2
+!i10b 1
+!s100 nG3:cP]R4PDWffMBH;XDn1
+R3
+IoOeEh>=X?595DmMf6OPW_3
+R4
+S1
+R0
+R5
+8timer_smart.sv
+Ftimer_smart.sv
+!i122 6
+L0 1 55
+R6
+r1
+!s85 0
+31
+R7
+Z10 !s107 traffic_system_tb.sv|traffic_system_smart_tb.sv|traffic_system_smart.sv|traffic_system.sv|traffic_light_smart.sv|traffic_light.sv|timer_smart.sv|timer.sv|
+R8
+!i113 1
+R9
+vtraffic_light
+R1
+R2
+!i10b 1
+!s100 3meoFm0<GYWA::E@fkeWk1
+R3
+ISlHd^kln[><A_EdPXTGzE0
+R4
+S1
+R0
+w1723304826
+8traffic_light.sv
+Ftraffic_light.sv
+!i122 6
+L0 1 138
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vtraffic_light_smart
+R1
+R2
+!i10b 1
+!s100 mihkY?ozDRGSSe1FED4g63
+R3
+ITnLl8Bji8lAiOhj8aCc:j1
+R4
+S1
+R0
+w1723303490
+8traffic_light_smart.sv
+Ftraffic_light_smart.sv
+!i122 6
+L0 1 148
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vtraffic_system
+R1
+R2
+!i10b 1
+!s100 c0lkbi]J_cMRA8L@m53OK3
+R3
+I>T1:ln2Ni39G[`R7FkdaH0
+R4
+S1
+R0
+R5
+8traffic_system.sv
+Ftraffic_system.sv
+!i122 6
+L0 2 48
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vtraffic_system_smart
+R1
+R2
+!i10b 1
+!s100 YI<M>Z@7mONPW8VBz_I[T2
+R3
+IX^Ma>5Z01FaZZYU29hNMf3
+R4
+S1
+R0
+R5
+8traffic_system_smart.sv
+Ftraffic_system_smart.sv
+!i122 6
+L0 2 55
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vtraffic_system_smart_tb
+R1
+R2
+!i10b 1
+!s100 6mN;4_AWT_oS4hoKM>g@S0
+R3
+IZ:cJ1f>:bC@>TQTU2==Xz1
+R4
+S1
+R0
+R5
+8traffic_system_smart_tb.sv
+Ftraffic_system_smart_tb.sv
+!i122 6
+L0 2 60
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vtraffic_system_tb
+R1
+R2
+!i10b 1
+!s100 l4:zW=`g48akdE?EXRem:1
+R3
+I?UhiDE=5^YUHlOjgJH?PQ3
+R4
+S1
+R0
+R5
+8traffic_system_tb.sv
+Ftraffic_system_tb.sv
+!i122 6
+L0 3 49
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
