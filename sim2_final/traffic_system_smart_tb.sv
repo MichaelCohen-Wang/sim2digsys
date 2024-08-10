@@ -27,7 +27,7 @@ module traffic_system_smart_tb;
 		person_present = 1'b0;
 		car_present = 1'b0;
 
-        #50 //5 clock cycles 
+        #10 //5 clock cycles 
 
         reset = 1'b0; //close restart
 
@@ -53,9 +53,9 @@ module traffic_system_smart_tb;
     end
 
     always begin 
-        #5
+        #1
         clk = ~clk;
     end
-    //one clock cycle is 5*2 = 10 seconds 
+    //one clock cycle is 2*1 = 2 units
 // End of your code
 endmodule

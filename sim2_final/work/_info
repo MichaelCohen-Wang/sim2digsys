@@ -8,292 +8,292 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 dC:/Users/micha/OneDrive/Documents/Technion/digitalSystems/HW/sim2/sim2_v1/sim2_v1.1
+dC:/Users/micha/OneDrive/Documents/Technion/digitalSystems/HW/sim2/sim2_v1/sim2_v1.1
 vtb_timer
-Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
-Z2 !s110 1723279689
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1723299712
 !i10b 1
 !s100 @bS09Hkdn=cN?OeVP;b;@3
-Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
 IzUK2j;i]zD_Gm8kA^:?`]0
-Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
 S1
-R0
-Z5 w1723277077
+Z4 dC:/Users/micha/OneDrive/Documents/Technion/digitalSystems/HW/sim2/sim2_v1/sim2_final
+w1723277077
 8EXTRAtimer_tb.sv
 FEXTRAtimer_tb.sv
-!i122 7
+!i122 10
 L0 1 106
-Z6 OV;L;2020.1;71
+Z5 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z7 !s108 1723279688.000000
+Z6 !s108 1723299711.000000
 !s107 traffic_system_tb.sv|traffic_system_smart_tb.sv|traffic_system_smart.sv|traffic_system.sv|traffic_light_tb.sv|traffic_light_smart.sv|traffic_light.sv|timer_tb.sv|timer_smart_tb.sv|timer_smart.sv|timer.sv|EXTRAtimer_tb.sv|
-Z8 !s90 -reportprogress|300|EXTRAtimer_tb.sv|timer.sv|timer_smart.sv|timer_smart_tb.sv|timer_tb.sv|traffic_light.sv|traffic_light_smart.sv|traffic_light_tb.sv|traffic_system.sv|traffic_system_smart.sv|traffic_system_smart_tb.sv|traffic_system_tb.sv|
+Z7 !s90 -reportprogress|300|EXTRAtimer_tb.sv|timer.sv|timer_smart.sv|timer_smart_tb.sv|timer_tb.sv|traffic_light.sv|traffic_light_smart.sv|traffic_light_tb.sv|traffic_system.sv|traffic_system_smart.sv|traffic_system_smart_tb.sv|traffic_system_tb.sv|
 !i113 1
-Z9 tCvgOpt 0
+Z8 tCvgOpt 0
 vtb_traffic_light
+R0
 R1
-R2
 !i10b 1
 !s100 [M_SFM=fM>g<F7Mc5o5CJ0
-R3
+R2
 Ig1zh]D:LVDBhaac4BY0n:1
-R4
+R3
 S1
-R0
-Z10 w1723277078
+R4
+w1723280257
 8traffic_light_tb.sv
 Ftraffic_light_tb.sv
-!i122 7
+!i122 10
 L0 1 57
-R6
+R5
 r1
 !s85 0
 31
+R6
+Z9 !s107 traffic_system_tb.sv|traffic_system_smart_tb.sv|traffic_system_smart.sv|traffic_system.sv|traffic_light_tb.sv|traffic_light_smart.sv|traffic_light.sv|timer_tb.sv|timer_smart_tb.sv|timer_smart.sv|timer.sv|EXTRAtimer_tb.sv|
 R7
-Z11 !s107 traffic_system_tb.sv|traffic_system_smart_tb.sv|traffic_system_smart.sv|traffic_system.sv|traffic_light_tb.sv|traffic_light_smart.sv|traffic_light.sv|timer_tb.sv|timer_smart_tb.sv|timer_smart.sv|timer.sv|EXTRAtimer_tb.sv|
-R8
 !i113 1
-R9
+R8
 vtimer
+R0
 R1
-R2
 !i10b 1
 !s100 3N_Ic<LQmlRJ@]4_KeRII1
-R3
+R2
 I@N^@6Fg^oS8]FbdlP91QG1
-R4
+R3
 S1
-R0
-R5
+R4
+Z10 w1723280259
 8timer.sv
 Ftimer.sv
-!i122 7
-Z12 L0 1 77
-R6
+!i122 10
+Z11 L0 1 77
+R5
 r1
 !s85 0
 31
-R7
-R11
-R8
-!i113 1
+R6
 R9
+R7
+!i113 1
+R8
 vtimer_smart
+R0
 R1
-R2
 !i10b 1
 !s100 nG3:cP]R4PDWffMBH;XDn1
-R3
+R2
 IoOeEh>=X?595DmMf6OPW_3
-R4
+R3
 S1
-R0
-R5
+R4
+w1723280261
 8timer_smart.sv
 Ftimer_smart.sv
-!i122 7
+!i122 10
 L0 1 55
-R6
+R5
 r1
 !s85 0
 31
-R7
-R11
-R8
-!i113 1
+R6
 R9
+R7
+!i113 1
+R8
 vtimer_smart_tb
+R0
 R1
-R2
 !i10b 1
 !s100 TSX:6POY_?KB;`>J8Pe_L0
-R3
+R2
 IzdV=admIz0jQf[gCz`DOI0
-R4
+R3
 S1
-R0
-R5
+R4
+w1723280262
 8timer_smart_tb.sv
 Ftimer_smart_tb.sv
-!i122 7
-R12
-R6
+!i122 10
+R11
+R5
 r1
 !s85 0
 31
-R7
-R11
-R8
-!i113 1
+R6
 R9
+R7
+!i113 1
+R8
 vtimer_tb
+R0
 R1
-R2
 !i10b 1
 !s100 mZ4A=KUYG>D?CnBX>TNH]3
-R3
+R2
 I0oiUz`Ca[_C5E@kCBjAB;1
-R4
+R3
 S1
-R0
-R10
+R4
+w1723280260
 8timer_tb.sv
 Ftimer_tb.sv
-!i122 7
+!i122 10
 L0 1 67
-R6
+R5
 r1
 !s85 0
 31
-R7
-R11
-R8
-!i113 1
+R6
 R9
+R7
+!i113 1
+R8
 vtraffic_light
+R0
 R1
-R2
 !i10b 1
 !s100 Q6NUE6Gk^To?A9Ozk6f=k1
-R3
+R2
 IKaELZ^gW782P^0oIm;4<S0
-R4
+R3
 S1
-R0
-R5
+R4
+w1723280258
 8traffic_light.sv
 Ftraffic_light.sv
-!i122 7
+!i122 10
 L0 1 143
-R6
+R5
 r1
 !s85 0
 31
-R7
-R11
-R8
-!i113 1
+R6
 R9
+R7
+!i113 1
+R8
 vtraffic_light_smart
+R0
 R1
-R2
 !i10b 1
 !s100 1fL5a@B79dNJ0:nbGX1KQ0
-R3
+R2
 I;QbbkT<clNW:ZYPAADSm12
-R4
+R3
 S1
-R0
-w1723279558
+R4
+R10
 8traffic_light_smart.sv
 Ftraffic_light_smart.sv
-!i122 7
+!i122 10
 L0 1 147
-R6
+R5
 r1
 !s85 0
 31
-R7
-R11
-R8
-!i113 1
+R6
 R9
+R7
+!i113 1
+R8
 vtraffic_system
+R0
 R1
-R2
 !i10b 1
 !s100 c0lkbi]J_cMRA8L@m53OK3
-R3
+R2
 I>T1:ln2Ni39G[`R7FkdaH0
-R4
+R3
 S1
-R0
-R10
+R4
+w1723280263
 8traffic_system.sv
 Ftraffic_system.sv
-!i122 7
+!i122 10
 L0 2 48
-R6
+R5
 r1
 !s85 0
 31
-R7
-R11
-R8
-!i113 1
+R6
 R9
+R7
+!i113 1
+R8
 vtraffic_system_smart
+R0
 R1
-R2
 !i10b 1
 !s100 YI<M>Z@7mONPW8VBz_I[T2
-R3
+R2
 IX^Ma>5Z01FaZZYU29hNMf3
-R4
+R3
 S1
-R0
-R10
+R4
+w1723280252
 8traffic_system_smart.sv
 Ftraffic_system_smart.sv
-!i122 7
+!i122 10
 L0 2 55
-R6
+R5
 r1
 !s85 0
 31
-R7
-R11
-R8
-!i113 1
+R6
 R9
+R7
+!i113 1
+R8
 vtraffic_system_smart_tb
-R1
-R2
-!i10b 1
-!s100 b2@jBiIIg_Znc4IijbbP[0
-R3
-IcfDm>JU^iTXIl_2=QWFHS2
-R4
-S1
 R0
-w1723279675
+R1
+!i10b 1
+!s100 6mN;4_AWT_oS4hoKM>g@S0
+R2
+IZ:cJ1f>:bC@>TQTU2==Xz1
+R3
+S1
+R4
+w1723299705
 8traffic_system_smart_tb.sv
 Ftraffic_system_smart_tb.sv
-!i122 7
+!i122 10
 L0 2 60
-R6
+R5
 r1
 !s85 0
 31
-R7
-R11
-R8
-!i113 1
+R6
 R9
+R7
+!i113 1
+R8
 vtraffic_system_tb
+R0
 R1
-R2
 !i10b 1
 !s100 A;N9:omNGnP;i=TTz?=dB1
-R3
+R2
 IzJ:T6^IA>jOjH;6Qf9Z3C1
-R4
+R3
 S1
-R0
-R10
+R4
+w1723280255
 8traffic_system_tb.sv
 Ftraffic_system_tb.sv
-!i122 7
+!i122 10
 L0 3 49
-R6
+R5
 r1
 !s85 0
 31
-R7
-R11
-R8
-!i113 1
+R6
 R9
+R7
+!i113 1
+R8
